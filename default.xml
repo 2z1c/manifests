@@ -21,7 +21,7 @@
     sync-j: 同步代码时的并发数
     -->
     <default
-        remote="github"
+        remote="C_And_Cpp"
         revision="master"
         sync-j="1" />
 
