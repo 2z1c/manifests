@@ -32,14 +32,14 @@
     -->
     <!-- RxJava -->
     <project
-        name="PythonDoc"
-        path="2z1c/PythonDoc"
+        name="2z1c/PythonDoc"
+        path="PythonDoc"
         remote="github"
      />
     <!-- RxAndroid -->
     <project
-        name="zApue"
-        path="2z1c/zApue"
+        name="2z1c/zApue"
+        path="zApue"
         remote="github" 
     />
         
