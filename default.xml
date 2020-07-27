@@ -31,13 +31,8 @@
     remote: 指定所在远程仓库
     revision: 指定代码分支
     -->
-    <!-- RxJava -->
-    <project
-        name="2z1c/PythonDoc"
-        path="PythonDoc"
-        remote="github"
-     />
-    <!-- RxAndroid -->
+
+    <!-- zApue -->
     <project
         name="2z1c/zApue"
         path="zApue"
