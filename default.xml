@@ -8,7 +8,7 @@
     -->
     <!-- remote server -->
     <remote
-        name="C&Cpp" 
+        name="C_And_Cpp" 
         fetch="https://github.com/2z1c" />
     <remote
         name="python"
@@ -43,7 +43,7 @@
     <project
         name="zApue"
         path="Cpp/zApue"
-        remote="C&Cpp"
+        remote="C_And_Cpp"
         revision="2.x" />
         
 </manifest>
