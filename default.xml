@@ -8,11 +8,11 @@
     -->
     <!-- remote server -->
     <remote
-        name="C_And_Cpp" 
-        fetch="https://github.com/2z1c" />
+        name="github" 
+        fetch="https://github.com" />
     <remote
-        name="python"
-        fetch="https://github.com/2z1c" />
+        name="Gitee"
+        fetch="https://gitee.com" />
 
     <!--
     default: 默认配置
@@ -20,10 +20,7 @@
     revision: 默认使用的分支
     sync-j: 同步代码时的并发数
     -->
-    <default
-        remote="C_And_Cpp"
-        revision="master"
-        sync-j="1" />
+    <default revision="master" remote="github" sync-c="true" sync-j="4"/>
 
     <!--
     project: 单个代码库配置
@@ -36,14 +33,14 @@
     <!-- RxJava -->
     <project
         name="PythonDoc"
-        path="Python/PythonDoc"
-        remote="Python"
+        path="2z1c/PythonDoc"
+        remote="github"
      />
     <!-- RxAndroid -->
     <project
         name="zApue"
-        path="Cpp/zApue"
-        remote="C_And_Cpp" 
+        path="2z1c/zApue"
+        remote="github" 
     />
         
 </manifest>
