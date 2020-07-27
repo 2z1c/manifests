@@ -38,12 +38,12 @@
         name="PythonDoc"
         path="Python/PythonDoc"
         remote="Python"
-        revision="2.x" />
+     />
     <!-- RxAndroid -->
     <project
         name="zApue"
         path="Cpp/zApue"
-        remote="C_And_Cpp"
-        revision="2.x" />
+        remote="C_And_Cpp" 
+    />
         
 </manifest>
