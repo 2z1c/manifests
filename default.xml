@@ -38,5 +38,12 @@
         path="zApue"
         remote="github" 
     />
+
+    <!-- zGo -->
+    <project
+        name="2z1c/zGo"
+        path="zGo"
+        remote="github" 
+    />
         
 </manifest>
