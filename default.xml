@@ -45,5 +45,11 @@
         path="zGo"
         remote="github" 
     />
-        
+
+    <!-- zGo -->
+    <project
+        name="2z1c/zLinux"
+        path="zLinux"
+        remote="github" 
+    />
 </manifest>
